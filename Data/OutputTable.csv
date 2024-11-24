@@ -1,0 +1,361 @@
+<Identificador, #>;	 #;	 Identificador
+<Identificador, #i>;	 #i;	 Identificador
+<Identificador, #in>;	 #in;	 Identificador
+<Identificador, #inc>;	 #inc;	 Identificador
+<Identificador, #incl>;	 #incl;	 Identificador
+<Identificador, #inclu>;	 #inclu;	 Identificador
+<Identificador, #includ>;	 #includ;	 Identificador
+<Identificador, #include>;	 #include;	 Identificador
+<Identificador, #include>;	 #include;	 Identificador
+;	 <;	 Operador
+;	 <;	 Operador
+<Identificador, s>;	 s;	 Identificador
+<Identificador, st>;	 st;	 Identificador
+<Identificador, std>;	 std;	 Identificador
+<Identificador, stdi>;	 stdi;	 Identificador
+<Identificador, stdio>;	 stdio;	 Identificador
+<Identificador, stdio.>;	 stdio.;	 Identificador
+<Identificador, stdio.h>;	 stdio.h;	 Identificador
+<Identificador, stdio.h>;	 stdio.h;	 Identificador
+;	 >;	 Operador
+;	 >;	 Operador
+;	 >;	 Operador
+;	 >;	 Operador
+<Identificador, #>;	 #;	 Identificador
+<Identificador, #i>;	 #i;	 Identificador
+<Identificador, #in>;	 #in;	 Identificador
+<Identificador, #inc>;	 #inc;	 Identificador
+<Identificador, #incl>;	 #incl;	 Identificador
+<Identificador, #inclu>;	 #inclu;	 Identificador
+<Identificador, #includ>;	 #includ;	 Identificador
+<Identificador, #include>;	 #include;	 Identificador
+<Identificador, #include>;	 #include;	 Identificador
+;	 <;	 Operador
+;	 <;	 Operador
+<Identificador, s>;	 s;	 Identificador
+<Identificador, st>;	 st;	 Identificador
+<Identificador, std>;	 std;	 Identificador
+<Identificador, stdl>;	 stdl;	 Identificador
+<Identificador, stdli>;	 stdli;	 Identificador
+<Identificador, stdlib>;	 stdlib;	 Identificador
+<Identificador, stdlib.>;	 stdlib.;	 Identificador
+<Identificador, stdlib.h>;	 stdlib.h;	 Identificador
+<Identificador, stdlib.h>;	 stdlib.h;	 Identificador
+;	 >;	 Operador
+;	 >;	 Operador
+;	 >;	 Operador
+;	 >;	 Operador
+<Identificador, i>;	 i;	 Identificador
+<Identificador, in>;	 in;	 Identificador
+;	 int;	 Palavra Reservada
+;	 int;	 Palavra Reservada
+<Identificador, m>;	 m;	 Identificador
+<Identificador, ma>;	 ma;	 Identificador
+<Identificador, mai>;	 mai;	 Identificador
+<Identificador, main>;	 main;	 Identificador
+<Identificador, main>;	 main;	 Identificador
+;	 (;	 Delimitador
+;	 );	 Delimitador
+;	 {;	 Delimitador
+<Identificador, f>;	 f;	 Identificador
+<Identificador, fl>;	 fl;	 Identificador
+<Identificador, flo>;	 flo;	 Identificador
+<Identificador, floa>;	 floa;	 Identificador
+;	 float;	 Palavra Reservada
+;	 float;	 Palavra Reservada
+<Identificador, a>;	 a;	 Identificador
+<Identificador, a>;	 a;	 Identificador
+;	 ,;	 Delimitador
+<Identificador, b>;	 b;	 Identificador
+<Identificador, b>;	 b;	 Identificador
+;	 ,;	 Delimitador
+<Identificador, c>;	 c;	 Identificador
+<Identificador, c>;	 c;	 Identificador
+;	 ,;	 Delimitador
+<Identificador, x>;	 x;	 Identificador
+<Identificador, x>;	 x;	 Identificador
+;	 1;	 Constante
+;	 1;	 Constante
+;	 ,;	 Delimitador
+<Identificador, x>;	 x;	 Identificador
+<Identificador, x>;	 x;	 Identificador
+;	 2;	 Constante
+;	 2;	 Constante
+;	 ,;	 Delimitador
+<Identificador, d>;	 d;	 Identificador
+<Identificador, de>;	 de;	 Identificador
+<Identificador, del>;	 del;	 Identificador
+<Identificador, delt>;	 delt;	 Identificador
+<Identificador, delta>;	 delta;	 Identificador
+<Identificador, delta>;	 delta;	 Identificador
+;	 ;;	 Delimitador
+<Identificador, p>;	 p;	 Identificador
+<Identificador, pr>;	 pr;	 Identificador
+<Identificador, pri>;	 pri;	 Identificador
+<Identificador, prin>;	 prin;	 Identificador
+<Identificador, print>;	 print;	 Identificador
+<Identificador, printf>;	 printf;	 Identificador
+<Identificador, printf>;	 printf;	 Identificador
+;	 (;	 Delimitador
+;	 ";	 Delimitador
+;	 );	 Delimitador
+;	 ;;	 Delimitador
+<Identificador, s>;	 s;	 Identificador
+<Identificador, sc>;	 sc;	 Identificador
+<Identificador, sca>;	 sca;	 Identificador
+<Identificador, scan>;	 scan;	 Identificador
+<Identificador, scanf>;	 scanf;	 Identificador
+<Identificador, scanf>;	 scanf;	 Identificador
+;	 (;	 Delimitador
+;	 ";	 Delimitador
+;	 ,;	 Delimitador
+;	 &;	 Operador
+;	 &;	 Operador
+<Identificador, a>;	 a;	 Identificador
+<Identificador, a>;	 a;	 Identificador
+;	 );	 Delimitador
+;	 ;;	 Delimitador
+<Identificador, p>;	 p;	 Identificador
+<Identificador, pr>;	 pr;	 Identificador
+<Identificador, pri>;	 pri;	 Identificador
+<Identificador, prin>;	 prin;	 Identificador
+<Identificador, print>;	 print;	 Identificador
+<Identificador, printf>;	 printf;	 Identificador
+<Identificador, printf>;	 printf;	 Identificador
+;	 (;	 Delimitador
+;	 ";	 Delimitador
+;	 );	 Delimitador
+;	 ;;	 Delimitador
+<Identificador, s>;	 s;	 Identificador
+<Identificador, sc>;	 sc;	 Identificador
+<Identificador, sca>;	 sca;	 Identificador
+<Identificador, scan>;	 scan;	 Identificador
+<Identificador, scanf>;	 scanf;	 Identificador
+<Identificador, scanf>;	 scanf;	 Identificador
+;	 (;	 Delimitador
+;	 ";	 Delimitador
+;	 ,;	 Delimitador
+;	 &;	 Operador
+;	 &;	 Operador
+<Identificador, b>;	 b;	 Identificador
+<Identificador, b>;	 b;	 Identificador
+;	 );	 Delimitador
+;	 ;;	 Delimitador
+<Identificador, p>;	 p;	 Identificador
+<Identificador, pr>;	 pr;	 Identificador
+<Identificador, pri>;	 pri;	 Identificador
+<Identificador, prin>;	 prin;	 Identificador
+<Identificador, print>;	 print;	 Identificador
+<Identificador, printf>;	 printf;	 Identificador
+<Identificador, printf>;	 printf;	 Identificador
+;	 (;	 Delimitador
+;	 ";	 Delimitador
+;	 );	 Delimitador
+;	 ;;	 Delimitador
+<Identificador, s>;	 s;	 Identificador
+<Identificador, sc>;	 sc;	 Identificador
+<Identificador, sca>;	 sca;	 Identificador
+<Identificador, scan>;	 scan;	 Identificador
+<Identificador, scanf>;	 scanf;	 Identificador
+<Identificador, scanf>;	 scanf;	 Identificador
+;	 (;	 Delimitador
+;	 ";	 Delimitador
+;	 ,;	 Delimitador
+;	 &;	 Operador
+;	 &;	 Operador
+<Identificador, c>;	 c;	 Identificador
+<Identificador, c>;	 c;	 Identificador
+;	 );	 Delimitador
+;	 ;;	 Delimitador
+<Identificador, d>;	 d;	 Identificador
+<Identificador, de>;	 de;	 Identificador
+<Identificador, del>;	 del;	 Identificador
+<Identificador, delt>;	 delt;	 Identificador
+<Identificador, delta>;	 delta;	 Identificador
+<Identificador, delta>;	 delta;	 Identificador
+;	 =;	 Operador
+;	 =;	 Operador
+<Identificador, b>;	 b;	 Identificador
+<Identificador, b>;	 b;	 Identificador
+;	 *;	 Operador
+;	 *;	 Operador
+<Identificador, b>;	 b;	 Identificador
+<Identificador, b>;	 b;	 Identificador
+;	 -;	 Operador
+;	 -;	 Operador
+;	 4;	 Constante
+;	 4;	 Constante
+;	 *;	 Operador
+;	 *;	 Operador
+<Identificador, a>;	 a;	 Identificador
+<Identificador, a>;	 a;	 Identificador
+;	 *;	 Operador
+;	 *;	 Operador
+<Identificador, c>;	 c;	 Identificador
+<Identificador, c>;	 c;	 Identificador
+;	 ;;	 Delimitador
+<Identificador, x>;	 x;	 Identificador
+<Identificador, x>;	 x;	 Identificador
+;	 1;	 Constante
+;	 1;	 Constante
+;	 =;	 Operador
+;	 =;	 Operador
+;	 (;	 Delimitador
+;	 -;	 Operador
+;	 -;	 Operador
+<Identificador, b>;	 b;	 Identificador
+<Identificador, b>;	 b;	 Identificador
+;	 +;	 Operador
+;	 +;	 Operador
+<Identificador, s>;	 s;	 Identificador
+<Identificador, sq>;	 sq;	 Identificador
+<Identificador, sqr>;	 sqr;	 Identificador
+<Identificador, sqrt>;	 sqrt;	 Identificador
+<Identificador, sqrt>;	 sqrt;	 Identificador
+;	 (;	 Delimitador
+<Identificador, d>;	 d;	 Identificador
+<Identificador, de>;	 de;	 Identificador
+<Identificador, del>;	 del;	 Identificador
+<Identificador, delt>;	 delt;	 Identificador
+<Identificador, delta>;	 delta;	 Identificador
+<Identificador, delta>;	 delta;	 Identificador
+;	 );	 Delimitador
+;	 );	 Delimitador
+;	 /;	 Operador
+;	 /;	 Operador
+;	 (;	 Delimitador
+;	 2;	 Constante
+;	 2;	 Constante
+;	 *;	 Operador
+;	 *;	 Operador
+<Identificador, a>;	 a;	 Identificador
+<Identificador, a>;	 a;	 Identificador
+;	 );	 Delimitador
+;	 ;;	 Delimitador
+<Identificador, x>;	 x;	 Identificador
+<Identificador, x>;	 x;	 Identificador
+;	 2;	 Constante
+;	 2;	 Constante
+;	 =;	 Operador
+;	 =;	 Operador
+;	 (;	 Delimitador
+;	 -;	 Operador
+;	 -;	 Operador
+<Identificador, b>;	 b;	 Identificador
+<Identificador, b>;	 b;	 Identificador
+;	 -;	 Operador
+;	 -;	 Operador
+<Identificador, s>;	 s;	 Identificador
+<Identificador, sq>;	 sq;	 Identificador
+<Identificador, sqr>;	 sqr;	 Identificador
+<Identificador, sqrt>;	 sqrt;	 Identificador
+<Identificador, sqrt>;	 sqrt;	 Identificador
+;	 (;	 Delimitador
+<Identificador, d>;	 d;	 Identificador
+<Identificador, de>;	 de;	 Identificador
+<Identificador, del>;	 del;	 Identificador
+<Identificador, delt>;	 delt;	 Identificador
+<Identificador, delta>;	 delta;	 Identificador
+<Identificador, delta>;	 delta;	 Identificador
+;	 );	 Delimitador
+;	 );	 Delimitador
+;	 /;	 Operador
+;	 /;	 Operador
+;	 (;	 Delimitador
+;	 2;	 Constante
+;	 2;	 Constante
+;	 *;	 Operador
+;	 *;	 Operador
+<Identificador, a>;	 a;	 Identificador
+<Identificador, a>;	 a;	 Identificador
+;	 );	 Delimitador
+;	 ;;	 Delimitador
+<Identificador, i>;	 i;	 Identificador
+;	 if;	 Palavra Reservada
+;	 if;	 Palavra Reservada
+;	 (;	 Delimitador
+<Identificador, d>;	 d;	 Identificador
+<Identificador, de>;	 de;	 Identificador
+<Identificador, del>;	 del;	 Identificador
+<Identificador, delt>;	 delt;	 Identificador
+<Identificador, delta>;	 delta;	 Identificador
+<Identificador, delta>;	 delta;	 Identificador
+;	 <;	 Operador
+;	 <;	 Operador
+;	 0;	 Constante
+;	 0;	 Constante
+;	 );	 Delimitador
+;	 {;	 Delimitador
+<Identificador, p>;	 p;	 Identificador
+<Identificador, pr>;	 pr;	 Identificador
+<Identificador, pri>;	 pri;	 Identificador
+<Identificador, prin>;	 prin;	 Identificador
+<Identificador, print>;	 print;	 Identificador
+<Identificador, printf>;	 printf;	 Identificador
+<Identificador, printf>;	 printf;	 Identificador
+;	 (;	 Delimitador
+;	 ";	 Delimitador
+;	 );	 Delimitador
+;	 ;;	 Delimitador
+;	 };	 Delimitador
+<Identificador, e>;	 e;	 Identificador
+<Identificador, el>;	 el;	 Identificador
+<Identificador, els>;	 els;	 Identificador
+;	 else;	 Palavra Reservada
+;	 else;	 Palavra Reservada
+;	 {;	 Delimitador
+<Identificador, p>;	 p;	 Identificador
+<Identificador, pr>;	 pr;	 Identificador
+<Identificador, pri>;	 pri;	 Identificador
+<Identificador, prin>;	 prin;	 Identificador
+<Identificador, print>;	 print;	 Identificador
+<Identificador, printf>;	 printf;	 Identificador
+<Identificador, printf>;	 printf;	 Identificador
+;	 (;	 Delimitador
+;	 ";	 Delimitador
+;	 ,;	 Delimitador
+<Identificador, x>;	 x;	 Identificador
+<Identificador, x>;	 x;	 Identificador
+;	 1;	 Constante
+;	 1;	 Constante
+;	 );	 Delimitador
+;	 ;;	 Delimitador
+<Identificador, p>;	 p;	 Identificador
+<Identificador, pr>;	 pr;	 Identificador
+<Identificador, pri>;	 pri;	 Identificador
+<Identificador, prin>;	 prin;	 Identificador
+<Identificador, print>;	 print;	 Identificador
+<Identificador, printf>;	 printf;	 Identificador
+<Identificador, printf>;	 printf;	 Identificador
+;	 (;	 Delimitador
+;	 ";	 Delimitador
+;	 ,;	 Delimitador
+<Identificador, x>;	 x;	 Identificador
+<Identificador, x>;	 x;	 Identificador
+;	 2;	 Constante
+;	 2;	 Constante
+;	 );	 Delimitador
+;	 ;;	 Delimitador
+;	 };	 Delimitador
+<Identificador, s>;	 s;	 Identificador
+<Identificador, sy>;	 sy;	 Identificador
+<Identificador, sys>;	 sys;	 Identificador
+<Identificador, syst>;	 syst;	 Identificador
+<Identificador, syste>;	 syste;	 Identificador
+<Identificador, system>;	 system;	 Identificador
+<Identificador, system>;	 system;	 Identificador
+;	 (;	 Delimitador
+;	 ";	 Delimitador
+;	 );	 Delimitador
+;	 ;;	 Delimitador
+<Identificador, r>;	 r;	 Identificador
+<Identificador, re>;	 re;	 Identificador
+<Identificador, ret>;	 ret;	 Identificador
+<Identificador, retu>;	 retu;	 Identificador
+<Identificador, retur>;	 retur;	 Identificador
+;	 return;	 Palavra Reservada
+;	 return;	 Palavra Reservada
+;	 0;	 Constante
+;	 0;	 Constante
+;	 ;;	 Delimitador
+;	 };	 Delimitador

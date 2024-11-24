@@ -1,0 +1,15 @@
+{
+  "name": "analisador-lexico",
+  "version": "1.0.0",
+  "description": "Um analisador léxico que processa um código-fonte e gera uma tabela de tokens.",
+  "main": "Index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": ["analisador", "lexico", "compilador", "tokens"],
+  "author": "João Lucas",
+  "license": "MIT",
+  "dependencies": {
+    "file-system": "^2.2.2"
+  }
+}
