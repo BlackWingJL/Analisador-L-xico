@@ -5,7 +5,7 @@ const Delimitadores = require('./Linguagem/Delimitadores.js');
 const PalavrasReservadas = require('./Linguagem/PalavrasReservadas.js');
 
 const code = FileSystem.readFileSync('./Data/InputCode.c', 'utf8');
-let cvsFile = 'Token; Lexema; Descrição\n'; // Cabeçalho do CSV
+let cvsFile = 'Token; Lexema; Descrição\n'; 
 
 let trail = "nada";
 let current_token = "";
@@ -55,43 +55,43 @@ for (let char of code) {
 
                 if (!is_number(char)) {
                     if (char === '.' && is_number(current_token)) {
-                        current_token += char; // Continua construindo o número decimal
+                        current_token += char; 
                         trail = "constante";
                     } else {
                         if (trail !== "letra") 
-                            current_token = checkToken(current_token); // Processa o token anterior
+                            current_token = checkToken(current_token); 
 
-                        current_token += char; // Continua construindo o identificador
+                        current_token += char; 
                         trail = "letra";
                     }
                 } else {
-                    current_token += char; // Continua construindo um número
+                    current_token += char; 
                     trail = "constante";
                 }
             } else {
-                current_token = checkToken(current_token); // Processa o token anterior
-                current_token += char; // Trata o delimitador
+                current_token = checkToken(current_token); 
+                current_token += char; 
                 trail = "delimitador";
-                current_token = checkToken(current_token); // Processa o delimitador imediatamente
+                current_token = checkToken(current_token); 
             }
         } else {
-            current_token = checkToken(current_token); // Processa o token anterior
-            current_token += char; // Trata o operador
+            current_token = checkToken(current_token); 
+            current_token += char; 
             trail = "operador";
         }
     } else {
-        current_token = checkToken(current_token); // Processa o token ao encontrar espaço
+        current_token = checkToken(current_token); 
         trail = "nada";
     }
 }
 if (current_token != '')
     checkToken(current_token);
 
-// Escreve os tokens acumulados no arquivo apenas uma vez, no final
+
 FileSystem.writeFileSync('./Data/OutputTable.csv', cvsFile);
 
 function checkToken(current_token) {
-    current_token = current_token.trim(); // Remove espaços e quebras de linha extras
+    current_token = current_token.trim(); 
     if (current_token !== '') {
         switch (trail) {
             case "comentario":
@@ -135,7 +135,7 @@ function checkToken(current_token) {
                 break;
         }
     }
-    return ''; // Reseta o token atual
+    return ''; 
 }
 
 function insertTable(id, token_type) {
@@ -151,7 +151,7 @@ function insertTable(id, token_type) {
 
         case 'Comentário':
             token = `<${token_type}, ${id}>`;
-            descricao = 'Comentário'; // Para comentários, usamos uma descrição simples
+            descricao = 'Comentário'; 
             break;
 
         default:

@@ -1,0 +1,56 @@
+Token; Lexema; Descrição
+<int, >;	 int;	 Palavra Reservada
+<Identificador, main>;	 main;	 Identificador
+<(, >;	 (;	 Delimitador - Abertura
+<), >;	 );	 Delimitador - Fechamento
+<{, >;	 {;	 Delimitador - Abertura
+<int, >;	 int;	 Palavra Reservada
+<Identificador, fat>;	 fat;	 Identificador
+<Constante Numérica, =1>;	 =1;	 Constante Numérica
+<,, >;	 ,;	 Separador
+<Identificador, i>;	 i;	 Identificador
+<,, >;	 ,;	 Separador
+<Identificador, n>;	 n;	 Identificador
+<;, >;	 ;;	 Terminador
+<Identificador, scanf>;	 scanf;	 Identificador
+<(, >;	 (;	 Delimitador - Abertura
+<", >;	 ";	 Delimitador
+<%, >;	 %;	 Operador
+<Identificador, d>;	 d;	 Identificador
+<", >;	 ";	 Delimitador
+<,, >;	 ,;	 Separador
+<&, >;	 &;	 Operador
+<Identificador, n>;	 n;	 Identificador
+<), >;	 );	 Delimitador - Fechamento
+<;, >;	 ;;	 Terminador
+<for, >;	 for;	 Palavra Reservada
+<(, >;	 (;	 Delimitador - Abertura
+<Identificador, i>;	 i;	 Identificador
+<Constante Numérica, =1>;	 =1;	 Constante Numérica
+<;, >;	 ;;	 Terminador
+<Identificador, i>;	 i;	 Identificador
+<<, >;	 <;	 Operador
+<=, >;	 =;	 Atribuição
+<Identificador, n>;	 n;	 Identificador
+<;, >;	 ;;	 Terminador
+<Identificador, i>;	 i;	 Identificador
+<+, >;	 +;	 Operador
+<+, >;	 +;	 Operador
+<), >;	 );	 Delimitador - Fechamento
+<Identificador, fat>;	 fat;	 Identificador
+<=, >;	 =;	 Atribuição
+<Identificador, fat>;	 fat;	 Identificador
+<*, >;	 *;	 Operador
+<Identificador, i>;	 i;	 Identificador
+<;, >;	 ;;	 Terminador
+<Identificador, printf>;	 printf;	 Identificador
+<(, >;	 (;	 Delimitador - Abertura
+<", >;	 ";	 Delimitador
+<%, >;	 %;	 Operador
+<Identificador, d>;	 d;	 Identificador
+<", >;	 ";	 Delimitador
+<,, >;	 ,;	 Separador
+<Identificador, fat>;	 fat;	 Identificador
+<), >;	 );	 Delimitador - Fechamento
+<;, >;	 ;;	 Terminador
+<}, >;	 };	 Delimitador - Fechamento
